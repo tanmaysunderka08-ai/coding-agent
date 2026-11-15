@@ -1,0 +1,1 @@
+The wildlife heat map is wrong west and south of the city centre. Sightings at -30 m east, 40 m north are drawn in the tile east of the centre line, and the busiest tile is reported incorrectly.

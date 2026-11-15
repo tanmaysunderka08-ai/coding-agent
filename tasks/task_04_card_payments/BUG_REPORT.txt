@@ -1,0 +1,1 @@
+Customers report that valid Visa, Mastercard and Amex cards are declined with 'card number is not valid'. Our payment provider says these numbers are fine.

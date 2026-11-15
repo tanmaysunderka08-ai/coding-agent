@@ -1,0 +1,1 @@
+The linter reports some problems on the wrong line. A tab at the start of line 2 is reported as 'a.py:1:9', and a bare except on line 6 as line 5. A problem at the very start of a file even shows line 0.

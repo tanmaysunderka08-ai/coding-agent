@@ -1,0 +1,1 @@
+The nightly export crashed with 'two inputs would both write job_summary.json', but job.csv and jobs.csv are different files. On other nights the files come out with odd names like 'metri_summary.json'.

@@ -1,0 +1,7 @@
+langgraph
+groq
+pydantic>=2
+python-dotenv
+PyYAML
+pytest
+ollama   # only for model_test.py

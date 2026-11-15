@@ -1,0 +1,7 @@
+mode: "team"                        # team or single
+model_name: "openai/gpt-oss-120b"
+strategy: "whole_files"             # agents see every source file in full
+
+limits:
+  max_loops: 3        # fix attempts per run
+  max_llm_retries: 5  # tries per llm call

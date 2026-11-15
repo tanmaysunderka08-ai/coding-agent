@@ -1,0 +1,1 @@
+The error dashboard shows strange messages such as 'timeout talking to bank" user="u7" region="eu west' and counts some failed payments under the wrong user.

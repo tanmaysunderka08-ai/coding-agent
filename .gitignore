@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+runs/
+sandbox/active_run/
+sandbox/secure_evaluation/
+old_tasks_backup_*/
+old_runs_archive/

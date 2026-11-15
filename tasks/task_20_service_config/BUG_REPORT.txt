@@ -1,0 +1,1 @@
+Config values leak between services. After the 'dev' service has loaded, the 'prod' service gets a DB pool without a timeout, and an env override given to one service (APP__DB__POOL__SIZE=3) is still there for the next service with the same profile.

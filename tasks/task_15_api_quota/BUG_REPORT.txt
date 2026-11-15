@@ -1,0 +1,1 @@
+Team-plan customers can make one call more than their 1000-call quota, and custom contracts are also exceeded by one. Free accounts are blocked correctly.

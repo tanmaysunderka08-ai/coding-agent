@@ -1,0 +1,1 @@
+Undo is unreliable. After deleting text, undo sometimes crashes with 'IndexError: position 11 out of range', and sometimes the text comes back in the wrong place. Undoing a find-and-replace or a move garbles the line.

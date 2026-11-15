@@ -1,0 +1,1 @@
+Planning Chennai -> Ooty, Port Blair prints only 'unknown city: Port Blair'. Port Blair IS in the road file (its only road goes to Havelock). It should plan Ooty and list Port Blair under 'no road to'.

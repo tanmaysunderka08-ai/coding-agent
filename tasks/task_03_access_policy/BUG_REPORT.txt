@@ -1,0 +1,1 @@
+Security review: anybody can open invoices and payroll records, even users who have nothing to do with them. Those resource types have not been configured yet and must stay closed until they are.

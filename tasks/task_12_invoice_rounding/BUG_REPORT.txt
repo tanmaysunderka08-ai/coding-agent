@@ -1,0 +1,1 @@
+Invoices are sometimes one cent lower than our accounting system: 3 widgets at 2.675 come out as 8.02 instead of 8.03, and the fuse line is off by a cent too.

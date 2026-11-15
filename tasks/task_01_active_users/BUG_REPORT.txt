@@ -1,0 +1,1 @@
+The dashboard's weekly and monthly active-user numbers are slightly too high. For 30 Nov, WAU shows 4 and MAU shows 8, but the product team counts 3 and 7.
